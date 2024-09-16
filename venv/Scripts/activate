@@ -35,7 +35,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV="C:\Users\pc\OneDrive\Escritorio\API-Gestion-main\venv"
+=======
+VIRTUAL_ENV="C:\Users\pc\OneDrive\Escritorio\Gestion-de-Finanzas-API-main\venv"
+>>>>>>> 714a412c0360bc3c07887fdb37b6f59b3530486f
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
